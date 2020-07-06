@@ -47,7 +47,7 @@ body{
 }
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{
     background-color: #AEB6BF;
-    overflow:hidden;
+    
 }
 
 .navbar-collapse {
