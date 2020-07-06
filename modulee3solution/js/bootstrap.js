@@ -24,6 +24,9 @@ if (typeof jQuery === 'undefined') {
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== */
 
+$(document).ready(function() {
+    $(".dropdown-toggle").dropdown();
+});
 
 +function ($) {
   'use strict';
